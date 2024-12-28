@@ -1,5 +1,6 @@
 # Bank-Tansaction-strategy-Optimazation
-Patent: Wenjie Lan. 2024. An Optimized Position Management Method and System. CN118799048A, filed July 26,2024, and published October 18 2024 \\
+Patent: Wenjie Lan. 2024. An Optimized Position Management Method and System. CN118799048A, filed July 26,2024, and published October 18 2024 
+   
 This repository provides a balance optimization and visualization system that utilizes database-driven modeling, mixed-integer programming, and visual analytics to manage financial liquidity gaps and borrowing strategies.
 
 ## Overview
